@@ -1,0 +1,21 @@
+Writing instructions for running the program
+
+1. Ensure you have the required files in the same directory:
+   - `memory_management.c` (C source file)
+   - `Makefile` (build file)
+
+2. Compile the program using the Makefile:
+   Open a terminal in the directory containing the files and run:
+       make
+
+3. Run the program:
+   After successful compilation, execute the program using:
+       make run
+
+4. Follow the program output to see memory allocation, deallocation, and fragmentation analysis.
+
+5. Clean up compiled files (optional):
+   To remove the executable and other build artifacts, run:
+       make clean
+
+
